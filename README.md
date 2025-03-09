@@ -1,1 +1,1 @@
-# quant-finance-algo-trading puplic
+# quant-finance-algo-trading_puplic
